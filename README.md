@@ -24,9 +24,13 @@ The Trading App consists of several key components:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/iharsh17/cpp-trading-app   ```
+   git clone https://github.com/iharsh17/cpp-trading-app
+   ```
 
 2. Navigate to the project folder.
+   ```
+   cd cpp-trading-app
+   ```
 
 3. Compile the application:
    ```
