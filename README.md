@@ -1,4 +1,4 @@
-```# Trading App
+# Trading App
 
 This application provides real-time data for various company stocks, helping users make informed decisions on buying and selling. The app sends buy or sell signals based on user-defined criteria and calculates stock costs when a signal is triggered.
 
@@ -52,4 +52,4 @@ Before running the Trading App, ensure you have:
 - Add a user-friendly GUI
 - Integrate with multiple data sources for more comprehensive analysis
 
-Feel free to contribute or suggest improvements!```
+Feel free to contribute or suggest improvements!
